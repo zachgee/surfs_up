@@ -6,6 +6,8 @@
 
 ## Results
 As we can see in the tables, there are a few key differences in between the months of June and December in Ouahu.
+![june_temps](https://user-images.githubusercontent.com/87949792/140000682-72159eac-6e12-4668-af86-f1fe15c0d5e7.png)
+![December_Temps](https://user-images.githubusercontent.com/87949792/140000694-959196e7-e61f-4899-8463-93cfce0ef984.png)
 
     * The highest temperature in June is 85, while in December it is 83
     * The lowest temperature in June is 64, while in December it is 56
